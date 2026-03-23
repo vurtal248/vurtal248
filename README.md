@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="623" height="179" alt="image" src="https://github.com/user-attachments/assets/0317265e-ae20-4813-abf0-c37717e4c05f" />
+
+
 <!--
 **vurtal248/vurtal248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
