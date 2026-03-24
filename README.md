@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0317265e-ae20-4813-abf0-c37717e4c05f" width="100%" class="round">
+  <img src="https://github.com/user-attachments/assets/0317265e-ae20-4813-abf0-c37717e4c05f" width="100%">
 </p>
 
 
