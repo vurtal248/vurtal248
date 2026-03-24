@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0317265e-ae20-4813-abf0-c37717e4c05f" width="100%">
+  <img src="https://github.com/user-attachments/assets/da04de01-d0fa-4a70-8db8-074c00b918ca" width="100%">
 </p>
 
 <!--
+
 **vurtal248/vurtal248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
