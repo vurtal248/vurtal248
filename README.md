@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vurtal248&theme=github" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vurtal248&theme=github&radius=12" />
   </a>
 </p>
 
