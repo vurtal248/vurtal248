@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=vurtal248&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vurtal248&hide_border=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vurtal248&hide_border=true&theme=transparent" />
   </a>
 </p>
 
