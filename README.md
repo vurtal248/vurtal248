@@ -16,3 +16,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vurtal248&hide_border=true&theme=dark" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vurtal248&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for vurtal248" height="165" />
+</p>
