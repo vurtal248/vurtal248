@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="./vurtal248/top-langs.svg" />
+    <img src="./top-langs.svg" />
 </p>
 
 ---
