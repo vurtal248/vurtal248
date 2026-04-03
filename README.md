@@ -4,8 +4,6 @@
   </picture>
 </div>
 
-<h1 align="center">/// VURTAL248</h1>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vurtal248&bg_color=transparent&color=58a6ff&line=58a6ff&point=adbac7&hide_border=true&hide_title=true" width="100%" alt="Activity Graph" />
