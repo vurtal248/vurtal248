@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="./profile/top-langs.svg" />
+    <img src="" />
 </p>
 
 ---
