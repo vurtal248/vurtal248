@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://github.com/vurtal248">
-    <img src="https://streak-stats.demolab.com?user=vurtal248&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats" />
+    <img src="https://streak-stats.demolab.com?user=vurtal248&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats" height="165" />
   </a>
 </p>
