@@ -24,7 +24,7 @@
 </p>
 
 <p align = "center">
-
+  <b>Badges</b>
 </p>
 
 <p align="center">
