@@ -28,7 +28,15 @@
 </p>
 
 <p align="center">
-<img width="10%" alt="image" src="https://github.com/user-attachments/assets/151f7eb7-53c9-4b51-8616-e7e1d9dea1e9" />
-<img width="10%" alt="image" src="https://github.com/user-attachments/assets/b9e63777-352e-4c99-b08f-d08c15379145" />
-<img width="10%" alt="image" src="https://github.com/user-attachments/assets/aa03a443-3a53-4202-bb5d-eace5d484127" />
+  <a href="https://github.com/user-attachments/assets/151f7eb7-53c9-4b51-8616-e7e1d9dea1e9">
+    <img src="https://img.shields.io/badge/LLM_Specialist-Google_Cloud-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="LLM Badge">
+  </a>
+  
+  <a href="https://github.com/user-attachments/assets/b9e63777-352e-4c99-b08f-d08c15379145">
+    <img src="https://img.shields.io/badge/Responsible_AI-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Responsible AI Badge">
+  </a>
+
+  <a href="https://github.com/user-attachments/assets/aa03a443-3a53-4202-bb5d-eace5d484127">
+    <img src="https://img.shields.io/badge/Python_Basic-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  </a>
 </p>
