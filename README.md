@@ -23,9 +23,9 @@
   </a>
 </p>
 
+<p align="center">
 ## 🏆 Certifications & Badges
-
-### 🤖 Artificial Intelligence & Machine Learning
-![LLM Specialist](https://img.shields.io/badge/LLM_Specialist-Certified-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) 
-![Responsible AI](https://img.shields.io/badge/Responsible_AI-Verified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GenAI Explorer](https://img.shields.io/badge/GenAI_Explorer-Completed-34A853?style=for-the-badge&logo=google&logoColor=white)
+<img width="33%" alt="image" src="https://github.com/user-attachments/assets/151f7eb7-53c9-4b51-8616-e7e1d9dea1e9" />
+<img width="33%" alt="image" src="https://github.com/user-attachments/assets/b9e63777-352e-4c99-b08f-d08c15379145" />
+<img width="33%" alt="image" src="https://github.com/user-attachments/assets/aa03a443-3a53-4202-bb5d-eace5d484127" />
+</p>
