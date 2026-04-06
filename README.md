@@ -23,8 +23,11 @@
   </a>
 </p>
 
+<p align = "center">
+
+</p>
+
 <p align="center">
-## 🏆 Certifications & Badges
 <img width="33%" alt="image" src="https://github.com/user-attachments/assets/151f7eb7-53c9-4b51-8616-e7e1d9dea1e9" />
 <img width="33%" alt="image" src="https://github.com/user-attachments/assets/b9e63777-352e-4c99-b08f-d08c15379145" />
 <img width="33%" alt="image" src="https://github.com/user-attachments/assets/aa03a443-3a53-4202-bb5d-eace5d484127" />
