@@ -22,3 +22,9 @@
     <img src="https://streak-stats.demolab.com?user=vurtal248&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats" height="175" />
   </a>
 </p>
+
+## 🏆 Certifications & Badges
+
+### 🤖 Artificial Intelligence & Machine Learning
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) 
+![Intro to GenAI](https://img.shields.io/badge/Intro_to_GenAI-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
