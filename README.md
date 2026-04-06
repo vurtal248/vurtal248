@@ -29,14 +29,14 @@
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/b9e63777-352e-4c99-b08f-d08c15379145">
-    <img src="https://img.shields.io/badge/LLM_Specialist-Google_Cloud-8E75B2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="LLM Badge">
+    <img src="https://img.shields.io/badge/LLM_Specialist-Google_Skills-8E75B2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="LLM Badge">
   </a>
   
   <a href="https://github.com/user-attachments/assets/151f7eb7-53c9-4b51-8616-e7e1d9dea1e9">
-    <img src="https://img.shields.io/badge/Responsible_AI-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Responsible AI Badge">
+    <img src="https://img.shields.io/badge/Responsible_AI-Google_Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Responsible AI Badge">
   </a>
 
   <a href="https://github.com/user-attachments/assets/aa03a443-3a53-4202-bb5d-eace5d484127">
-    <img src="https://img.shields.io/badge/Python_Basic-Certified-3776AB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Generative AI Badge">
+    <img src="https://img.shields.io/badge/Generative_AI-Google_Skills-3776AB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Generative AI Badge">
   </a>
 </p>
