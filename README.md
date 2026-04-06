@@ -26,5 +26,6 @@
 ## 🏆 Certifications & Badges
 
 ### 🤖 Artificial Intelligence & Machine Learning
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) 
-![Intro to GenAI](https://img.shields.io/badge/Intro_to_GenAI-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LLM Specialist](https://img.shields.io/badge/LLM_Specialist-Certified-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) 
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-Verified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GenAI Explorer](https://img.shields.io/badge/GenAI_Explorer-Completed-34A853?style=for-the-badge&logo=google&logoColor=white)
