@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" width="54%" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" width="44%" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="190" width="54%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="190" width="44%" alt="Top Languages" />
 </p>
 
 ---
